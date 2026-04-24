@@ -4,7 +4,7 @@ Software Engineer from São Paulo, Brazil. I studied Electrical Engineering
 at USP, found my way into software through embedded systems and aerospace
 hardware, and ended up in Data Engineering.
 
-I build data pipelines and AI agents — scalable ETL infrastructure,
+I design and build systems that make data useful — scalable ETL infrastructure,
 LLM-powered workflows, and the APIs that tie them together.
 
 ---
@@ -26,19 +26,15 @@ LLM-powered workflows, and the APIs that tie them together.
 ### Projects
 
 - [**resume-radar**](https://github.com/fulviofavilla/resume-radar) — AI agent that matches resumes against live job postings using LangGraph, ChromaDB, and OpenAI embeddings
-- [**cvd-prediction-ml**](https://github.com/fulviofavilla/cvd-prediction-ml) — Comparative ML study for CVD prediction — winner of the 2023 HPCC Systems Poster Competition
+- [**cvd-prediction-ml**](https://github.com/fulviofavilla/cvd-prediction-ml) — Comparative ML study for CVD prediction — winner of the 2023 HPCC Systems Poster Competition (Community Choice & Data Analytics)
+- [**music-archiver**](https://github.com/fulviofavilla/music-archiver) — CLI tool to archive Spotify playlists as local audio files via yt-dlp
 - [**zenith-aerospace**](https://github.com/fulviofavilla/zenith-aerospace) — Flight trajectory visualization and ground station IPC research (USP)
 - [**park-pilot**](https://github.com/fulviofavilla/park-pilot) — Arduino + Python parking assistant with real-time serial ingestion and Pygame interface
-- [**music-archiver**](https://github.com/fulviofavilla/music-archiver) — CLI tool to archive Spotify playlists as local audio files via yt-dlp
 
 ---
 
-### Certifications & Awards
+### Awards & Certifications
 
-- Microsoft Certified: Azure Fundamentals (AZ-900)
 - 2023 HPCC Systems Poster Competition — Community Choice & Data Analytics
 - HPCC Systems All Core ECL Competency + Applied ECL: Machine Learning
-
----
-
-*Open to Data Engineering and AI agent projects.*
+- Microsoft Certified: Azure Fundamentals (AZ-900)
