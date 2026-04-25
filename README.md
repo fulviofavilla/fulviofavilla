@@ -1,11 +1,4 @@
-## Hi, I'm Fulvio 👋
-
-Software Engineer from São Paulo, Brazil. I studied Electrical Engineering
-at USP, found my way into software through embedded systems and aerospace
-hardware, and ended up in Data Engineering.
-
-I design and build systems that make data useful — scalable ETL infrastructure,
-LLM-powered workflows, and the APIs that tie them together.
+Software Engineer from São Paulo, Brazil. I studied Electrical Engineering at USP, found my way into software through embedded systems and aerospace hardware, and ended up in Data Engineering.
 
 ---
 
